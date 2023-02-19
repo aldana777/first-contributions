@@ -1,6 +1,7 @@
 # Contributors
 <!-- prettier-ignore-start -->
 - [Harshit Jain](https://github.com/Harshit28j)
+- [Sergio Thompson] (https://github.com/SergioJThompson)
 - [CharlyMech](https://github.com/CharlyMech)
 - [pearlescen7](https://github.com/pearlescen7)
 - **[C.Viswanath](https://github.com/c-viswanath)**
@@ -2478,3 +2479,4 @@ Ayan Das
 - [sziwipx](https://github.com/sziwipx)
 - [JoLalo](https://github.com/JoLalo)
 - [pranshua7i](https://github.com/pranshua7i)
+- [Opeyemi O.](https://github.com/lekeope)
